@@ -4,4 +4,4 @@ venv/
 .vscode/
 .idea/
 __pycache__/
-/python/models/*
+/models/*
